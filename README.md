@@ -1,2 +1,2 @@
-# K-Means and Meoid Clustering Algorithm based on Pattern Data Distribution
- based on Journal: Performance of K-Means and Partitioning Around Medoid (PAM) Algorithm Based on Pattern of Data Distribution
+# Performance of K-Means and PAM Algorithms Based on Data Distribution Patterns
+Was a collaborative project with Siti Mahfudoh that has been used in his Study of Literature course: "Kinerja Algoritma K-Means dan PAM Berdasarkan Pola Distribusi Data", which analyzes the performance of k-means and k-medoids clustering based on data distribution patterns.
